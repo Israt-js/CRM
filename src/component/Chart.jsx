@@ -7,4 +7,4 @@ const Chart = () => {
     );
   };
   
-  export default Chart;
+export default Chart;
