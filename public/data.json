@@ -1,0 +1,14 @@
+{
+    "xLabels": ["Shanta", "Afroja", "Maliha"],
+    "pData": [
+      { "x": "Shanta", "y": 10 },
+      { "x": "Afroja", "y": 20 },
+      { "x": "Maliha", "y": 30 }
+    ],
+    "uData": [
+      { "x": "Shanta", "y": 15 },
+      { "x": "Afroja", "y": 25 },
+      { "x": "Maliha", "y": 35 }
+    ]
+  }
+  
